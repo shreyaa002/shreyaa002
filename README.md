@@ -15,7 +15,7 @@ Always excited to learn and grow! 🚀
 
 ### 🚀 Projects
  
-🔹 *[AlgoVisualizer](https://github.com/Sayman7/algovisualizer)* — Making algorithms come to life through visualization.  
+🔹 *[Amazon clone](https://github.com/shreyaa002/amazon clone)* — A clone platform just like amazon.
 
 ---
 
